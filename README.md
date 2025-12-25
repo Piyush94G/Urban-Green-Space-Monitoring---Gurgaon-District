@@ -88,4 +88,7 @@ Using **Landsat 8** and **Sentinel-2** satellite imagery, we classify urban, veg
 - Academic research in remote sensing and GIS.
 - Monitoring sustainable development goals (SDG 11: Sustainable Cities and Communities).
 
+## 🔗 Data Access
 
+- Due to large size, datasets are hosted externally:
+ https://drive.google.com/drive/folders/1bjK9qirlfrMchFjoC6EEnVWbwDSWP3u4
